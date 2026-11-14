@@ -47,6 +47,7 @@ At **Solid Optics** I built two Copilot agents for the sales team: a post writer
 
 - **NetApp (2019 to 2022):** wrote for storage admins and engineers. Rebuilt the knowledge base: **20% lower bounce, 10% higher CTR.** Improved AI chatbots: **30% more engagement.** Led a CMS migration.
 - **Adobe (2022 to 2023):** owned in-app education for Illustrator and Photoshop features, working with product and engineering. **+11% user acquisition, +6% trial-to-paid.**
+- **Solid Optics (2025 to 2026):** marketed optical transceivers to network engineers and operators. Ran content for CloudFest, AngaCom, ITNOG and ESNOG, and built training videos and quizzes for optics testers by sitting with engineers until the explanation made sense.
 
 ### Vibecoded side projects (you said they count)
 
@@ -80,7 +81,7 @@ Every good RFC argues against itself. So:
 |---|---|---|
 | No devtool company on my CV | True. My technical audiences were storage admins and creative pros, not developers. | I *am* the developer audience now: I build with Claude Code, Vercel and GitHub every week. And the [battlecard](./battlecard-ai-observability.md) shows I can learn a devtool fast. |
 | No Gong or formal battlecard history | True. My sales enablement was agents, training and pitch pages. | The battlecard ends with a "still missing" list of what I'd pull from Gong on day one. I know what I don't know. |
-| "Developer Marketer" was never my job title | True. But I've spent 4+ years marketing technical products to technical audiences (NetApp, Adobe), and 2 more building developer-style tools myself. | Judge the work, not the title. That's sort of your whole hiring process anyway. |
+| "Developer Marketer" was never my job title | True. But I've spent 5+ years marketing technical products to technical audiences (NetApp, Adobe, Solid Optics), and 2 more building developer-style tools myself. | Judge the work, not the title. That's sort of your whole hiring process anyway. |
 
 ## Alternatives considered
 
