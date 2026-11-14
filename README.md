@@ -80,7 +80,7 @@ Every good RFC argues against itself. So:
 |---|---|---|
 | No devtool company on my CV | True. My technical audiences were storage admins and creative pros, not developers. | I *am* the developer audience now: I build with Claude Code, Vercel and GitHub every week. And the [battlecard](./battlecard-ai-observability.md) shows I can learn a devtool fast. |
 | No Gong or formal battlecard history | True. My sales enablement was agents, training and pitch pages. | The battlecard ends with a "still missing" list of what I'd pull from Gong on day one. I know what I don't know. |
-| "Developer marketing" years are thin | Strictly, zero in that title. About 3 years writing for technical audiences. | Judge the work, not the title. That's sort of your whole hiring process anyway. |
+| "Developer Marketer" was never my job title | True. But I've spent 4+ years marketing technical products to technical audiences (NetApp, Adobe), and 2 more building developer-style tools myself. | Judge the work, not the title. That's sort of your whole hiring process anyway. |
 
 ## Alternatives considered
 
