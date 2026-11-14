@@ -1,9 +1,9 @@
 # RFC: Hire Amit as Developer Marketer (Sales)
 
 > - **Author:** Amit Srivatsa Gorti ([amitsrivatsa.com](https://www.amitsrivatsa.com))
-> - **Status:** open for comments. Approve by booking a culture interview.
+> - **Status:** open for comments.
 > - **Role:** [Developer Marketer, Sales](https://posthog.com/careers/developer-marketer-sales)
-> - **Location:** Utrecht, Netherlands (GMT+1, inside your GMT+2 to GMT-8 window)
+> - **Location:** Utrecht, Netherlands (GMT+1)
 > - **Proof of work:** [Battlecard: AI Observability](./battlecard-ai-observability.md)
 
 ---
@@ -16,7 +16,7 @@ I propose you hire me. I've already shipped the first piece: [a battlecard for A
 
 ## Problem
 
-From your job post, paraphrased honestly:
+From your job post, reparaphrased as per my understanding:
 
 - Sales needs positioning, battlecards, objection handling and customer stories. Fast.
 - Some features have no dedicated PMM, so nobody owns their story.
@@ -27,15 +27,15 @@ From your job post, paraphrased honestly:
 
 Hire a writer who builds. Specifically, one who:
 
-1. **Writes for technical people** and keeps it short.
-2. **Builds the tools** instead of filing tickets for them.
-3. **Has sat with sales** and made things they used without being asked twice.
+1. **Writes (and has written) for technical people** and keeps it short.
+2. **Builds the tools** instead of filing tickets for them. (I am a self-taught developer, so some of my builds are a bit rusty)
+3. **Has sat with sales** and made things they used without being asked twice. (I can preempt sales' requirement, sort of)
 
 ## Evidence (prior art)
 
 ### I build AI tools for sales teams
 
-At **Solid Optics** I built two Copilot agents for the sales team: a post writer and a brand-voice reviewer, both grounded in a voice guide I wrote. Then I trained the team to run them without me.
+At **Solid Optics** I built two Copilot agents for the sales team: a post writer and a brand-voice reviewer, both grounded in a voice guide I wrote. Then I trained the team to run them without me. The primary objective was to remove the dependency on the CTO for every linkedin post. The secondary objective was to decentralise content creation, and not make marketing the bottleneck (especially as I alone comprised the whole marketing "team".
 
 **Impact:** idea-to-publish time for sales posts dropped from **4 to 5 days to 4 to 5 hours.** Content production time across the team fell by about **50%.**
 
@@ -50,7 +50,7 @@ At **Solid Optics** I built two Copilot agents for the sales team: a post writer
 
 ### Vibecoded side projects (you said they count)
 
-- [**Ask-my-career agent**](https://www.amitsrivatsa.com/agent): a live Claude-powered agent on my site. Streaming, prompt caching, guardrails in prompt *and* code, adversarially tested.
+- [**Ask-my-career agent**](https://www.amitsrivatsa.com/agent): a live Claude-powered agent on my site. It draws from a restricted knowledgebase exclusively covering all of my past expereinces and current builds. Streaming, prompt caching, guardrails in prompt *and* code, adversarially tested.
 - [**Buildtober gallery**](https://www.amitsrivatsa.com/builds): small tools shipped in public, each with a demo and one lesson. Including a [voice linter](https://www.amitsrivatsa.com/builds/voice-linter) and a [LinkedIn audience map](https://github.com/amit-srivatsa/linkedin-dashboard).
 - My own job search runs on a Claude Code pipeline I built: it scans job boards, scores roles, tailors the CV and checks every claim against a story bank. This repo came out of it, which is either very meta or very efficient.
 
@@ -90,7 +90,8 @@ Every good RFC argues against itself. So:
 
 ## Unresolved questions
 
-- Does pineapple belong on pizza? Yes. I'm in the 40%, and I'll defend it in the culture interview.
+- Does pineapple belong on pizza?
+  **Yes.** I'm in the 40%, and I'll defend it in the culture interview.
 
 ---
 
